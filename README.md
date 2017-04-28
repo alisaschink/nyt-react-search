@@ -2,7 +2,7 @@
 
 ## Props
 
-In React, Props are arbitrary inputs attached to each component. They are considered to be a way to pass data from parent component to child component. Components shouldn't ever modify its own props
+In React, Props are arbitrary inputs attached to each component. They are considered to be a way to pass data from parent component to child component. 
 
 ## State
 
